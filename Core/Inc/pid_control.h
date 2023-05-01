@@ -9,7 +9,7 @@
 /* USER CODE END Header */
 
 #ifndef PID_CONTROL
-#define ID_CONTROL
+#define PID_CONTROL
 
 #include "main.h"
 #include "math.h"

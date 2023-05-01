@@ -1,4 +1,4 @@
 ../Core/Src/pid_control.c:15:6:MotorSetDuty	8	static
 ../Core/Src/pid_control.c:28:7:MotorReadPosition	8	static
-../Core/Src/pid_control.c:33:9:ComputePID	32	static
+../Core/Src/pid_control.c:33:9:ComputePID	16	static
 ../Core/Src/pid_control.c:58:7:ComputeLowpassConstant	16	static
